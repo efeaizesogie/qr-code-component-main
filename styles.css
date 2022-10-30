@@ -21,7 +21,7 @@ html{
 }
 
 .card{
-    width: 41rem;
+    width: 32rem;
     height: auto;
     padding: 2rem;
     border-radius: 3rem;
@@ -34,7 +34,7 @@ html{
 }
 
 .main-heading{
-    font-size: 3rem;
+    font-size: 2.4rem;
     color: hsl(218, 44%, 22%);
     text-align: center;
     margin: 2rem 0;
@@ -43,10 +43,10 @@ html{
 }
 
 .para{
-    font-size: 1.8rem;
+    font-size: 1.5rem;
     text-align: center;
     font-family: "Outfit", sans-serif;
-    width: 31rem;
+    width: 25rem;
     margin: 2rem auto;
     font-weight: 400;
     color: hsl(220, 15%, 55%);
